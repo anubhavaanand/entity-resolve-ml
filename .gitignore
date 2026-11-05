@@ -5,10 +5,8 @@ __pycache__/
 *.pyc
 
 # Massive Data Files (DO NOT PUSH TO GITHUB)
-dataset/*
-!dataset/.gitkeep
-output/*
-!output/.gitkeep
+dataset/
+output/
 
 # Models
 *.pkl
