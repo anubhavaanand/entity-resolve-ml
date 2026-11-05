@@ -5,12 +5,13 @@ __pycache__/
 *.pyc
 
 # Massive Data Files (DO NOT PUSH TO GITHUB)
-dataset/
-output/
+dataset
+output
 
 # Models
 *.pkl
 .kilo
+
 # IDE / System
 .qoder/
 .vscode/
@@ -18,6 +19,3 @@ output/
 context/*.zip
 context/
 output_final*
-*.pkl echo xgb_model.pkl
-*.pkl
-xgb_model.pkl
